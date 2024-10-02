@@ -14,7 +14,6 @@ Updates will include changelogs so if you are using a current image and it's upd
 
 * If there is an image update, you can decide if you want to replace the old image or not by dragging a copy into your server image folder or script location and renaming it.
 
-* The Icon Library Project's [**Discord**](https://discord.gg/7kMt8dFzka) Updates Channel will list all the files added to the libraries and changelog if there are any.
 <br/>
 <br/>
 
